@@ -2,7 +2,7 @@
 
 pip install pyautogui
 
-In the project directory, you can run:
+### In the project directory, you can run:
 
-### python basic.py
+ python basic.py
 
